@@ -3,4 +3,4 @@
 
 [][1]
 
-http://jindong.io/assets/images/original/sphinx-example.jpg
+ [1]: http://jindong.io/assets/images/original/sphinx-example.jpg
